@@ -1,2 +1,2 @@
 # Coursera
-Repositório criado para treinamento Coursera
+Repositório criado para treinamento Coursera.
